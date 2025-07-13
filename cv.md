@@ -14,15 +14,19 @@
   * Git
 
  ## Code Example
+ 
   function sum(a, b) {
   return a + b;
   }
 
  ## Work Experience
+
    I had no work experience
-   
+
  ## Education 
+
    * School: incomplete secondary school
 
- ## English 
+ ## English
+
   **A2**  (I'm taking dualingo courses)
